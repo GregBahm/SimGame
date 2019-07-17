@@ -3,3 +3,10 @@
 ################################################################################
 
 /SimGameUnity/Library
+/SimGameUnity/Logs
+/SimGameUnity/obj/Debug
+/SimGameUnity/.vs/
+/SimGameUnity/Packages
+/SimGameUnity/Temp
+*.csproj
+*.sln
